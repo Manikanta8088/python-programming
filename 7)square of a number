@@ -1,0 +1,7 @@
+n=int(input("Enter the number:"))
+square=n**2
+print("Square of a number = ",square)
+
+output:
+Enter the number:3
+Square of a number =  9
